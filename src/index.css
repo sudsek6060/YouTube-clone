@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: black;
+    /* background-color: black; */
   }
   
   a {
@@ -51,7 +51,7 @@ body {
     text-transform: capitalize;
     display: flex;
     align-items: center;
-    justify-content: start;
+    justify-content: flex-start;
     cursor:pointer;
     background: transparent;
     outline: none;
